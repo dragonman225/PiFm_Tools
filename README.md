@@ -1,5 +1,5 @@
 # PiFm_Tools
-A few scripts that make it easier to use PiFm.
+A few scripts that makes it easier to use PiFm.
 ## Play_Whole_Folder
 * Usage :
 `bash play.sh`
