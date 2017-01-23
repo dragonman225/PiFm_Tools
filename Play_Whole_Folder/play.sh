@@ -1,5 +1,5 @@
 #!bin/bash
-echo "Bash version ${BASH_VERSION}..."
+echo "Welcome ! Your Bash version ${BASH_VERSION}..."
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 for i in *
