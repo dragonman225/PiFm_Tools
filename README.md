@@ -6,7 +6,7 @@ A few scripts that makes it easier to use PiFm.
 `./play.sh`
 * Notice : <br> 
 PiFm and ffmpeg should be able to execute directly in command-line. <br>
-`Ex. ln -s /path/to/pifm /usr/bin/pifm` <br>
+Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
 
 ## Play_Whole_Youtube_Playlist
 * Usage : <br>
@@ -15,6 +15,6 @@ PiFm and ffmpeg should be able to execute directly in command-line. <br>
 `./playyt.sh`
 * Notice : <br> 
 PiFm and ffmpeg should be able to execute directly in command-line. <br>
-`Ex. ln -s /path/to/pifm /usr/bin/pifm` <br>
+Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
 * Dependencies : <br>
 `curl` <br>
