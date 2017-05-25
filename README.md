@@ -4,7 +4,7 @@ A few scripts that makes it easier to use PiFm.
 * Usage : <br>
 `chmod +x play.sh` <br>
 `./play.sh`
-* Notice : <br> 
+* Dependencies : <br> 
 PiFm and ffmpeg should be able to execute directly in command-line. <br>
 Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
 
@@ -13,7 +13,7 @@ Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
 *Change [PLAYLISTID] to what you want first.* <br>
 `chmod +x playyt.sh` <br>
 `./playyt.sh`
-* Notice : <br> 
+* Dependencies : <br> 
 PiFm and ffmpeg should be able to execute directly in command-line. <br>
 Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
 * Dependencies : <br>
