@@ -16,5 +16,4 @@ Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
 * Dependencies : <br> 
 PiFm and ffmpeg should be able to execute directly in command-line. <br>
 Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
-* Dependencies : <br>
-`curl` <br>
+curl need to be installed.  <br>
