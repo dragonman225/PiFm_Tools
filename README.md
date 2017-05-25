@@ -17,3 +17,4 @@ Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
 PiFm and ffmpeg should be able to execute directly in command-line. <br>
 Ex. `ln -s /path/to/pifm /usr/bin/pifm` <br>
 curl need to be installed.  <br>
+Ex. `sudo apt-get install curl` <br>
